@@ -16,7 +16,7 @@
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <eclipselink.version>2.7.13</eclipselink.version>
+        <eclipselink.version>2.7.14</eclipselink.version>
     </properties>
 
     <dependencies>

@@ -3,3 +3,5 @@ This project is created only to show eclipse-link bug which happens during entit
 entityManager.flush() leads to commit, which shouldn't be the case. Or i misunderstand smth.
 
 see the EclipseLinkTest.java
+
+As test DB is used H2, it could be found in the target directory, see application.properties
